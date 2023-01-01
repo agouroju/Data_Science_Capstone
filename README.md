@@ -1,5 +1,6 @@
 # THE-BATTLE-OF-THE-NEIGHBOURHOODS-PROJECT
 
+Please see the pdf for the detailed report
 
 ## 📌**Objective**
 
